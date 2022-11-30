@@ -4,35 +4,35 @@
 0,sanstext,ready?,,,,,,,
 0.2,SansBody,HandDown,,,,,,,
 0,SansHead,BlueEye,,,,,,,
-0,BoneStab,1,35,0.1,0.5,,,,
-0,BoneStab,0,35,0.1,0.5,,,,
-0,BoneStab,2,35,0.1,0.5,,,,
-0,BoneStab,3,35,0.1,0.5,,,,
 0.2,sansslam,0,,,,,,,
+0,BoneStab,1,35,0.1,0.5,,,,
 0.2,sansslam,1,,,,,,,
+0,BoneStab,0,35,0.1,0.5,,,,
 0.2,sansslam,2,,,,,,,
+0,BoneStab,2,35,0.1,0.5,,,,
 0.2,sansslam,3,,,,,,,
+0,BoneStab,3,35,0.1,0.5,,,,
 0	GasterBlaster	1	123	233	250	226	0	0	0.75
 0	GasterBlaster	1	123	233	250	400	90	0	0.75
 0	GasterBlaster	1	123	233	391	226	270	0	0.75
-0.15,BoneStab,3,40,0.1,0.7,,,,
-0.15,BoneStab,1,40,0.2,0.7,,,,
-0.15,BoneStab,3,40,0.3,0.7,,,,
-0.15,BoneStab,1,40,0.4,0.7,,,,
-0.15,BoneStab,3,40,0.5,0.7,,,,
-0.15,BoneStab,1,40,0.6,0.7,,,,
-0.15,BoneStab,3,40,0.7,0.7,,,,
-0.15,BoneStab,1,40,0.8,0.7,,,,
 0.2,sansslam,3,,,,,,,
+0.1,BoneStab,3,40,0.1,0.3,,,,
 0.2,sansslam,1,,,,,,,
+0.1,BoneStab,1,40,0.1,0.3,,,,
 0.2,sansslam,3,,,,,,,
+0.1,BoneStab,3,40,0.1,0.3,,,,
 0.2,sansslam,1,,,,,,,
+0.1,BoneStab,1,40,0.1,0.3,,,,
 0.2,sansslam,3,,,,,,,
+0.1,BoneStab,3,40,0.1,0.3,,,,
 0.2,sansslam,1,,,,,,,
+0.1,BoneStab,1,40,0.1,0.3,,,,
 0.2,sansslam,3,,,,,,,
+0.1,BoneStab,3,40,0.1,0.3,,,,
 0.2,sansslam,1,,,,,,,
+0.1,BoneStab,1,40,0.1,0.3,,,,
 0.3,HeartMode,0
-0.1,BoneStab,2,10,0.1,0.5,,,,
+0.05,BoneStab,2,10,0.1,0.5,,,,
 0.05,BoneStab,2,20,0.1,0.5,,,,
 0.05,BoneStab,2,30,0.1,0.5,,,,
 0.05,BoneStab,2,40,0.1,0.5,,,,
@@ -90,10 +90,10 @@
 0.1	GetHeartPos	HeartX	HeartY	
 0 GasterBlaster	0	0	0	210	$HeartY	0	0	0.4
 0	GasterBlaster	0	0	0	$HeartX	226	90	0	0.4
-0.2,BoneStab,0,50,0.7,0.5,,,,
-0.2,BoneStab,1,60,0.7,0.5,,,,
-0.2,BoneStab,2,70,0.7,0.5,,,,
-0.2,BoneStab,3,80,0.7,0.5,,,,
+0.5,BoneStab,0,50,0.7,0.5,,,,
+0.5,BoneStab,1,60,0.7,0.5,,,,
+0.5,BoneStab,2,70,0.7,0.5,,,,
+0.5,BoneStab,3,80,0.7,0.5,,,,
 1,SineBones,25,50,500,50
 0,GasterBlaster,,0,0,189,246,0,0.333,0.4
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.4
